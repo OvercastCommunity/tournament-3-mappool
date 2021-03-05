@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <map proto="1.4.0">
 <name>Gobi</name>
-<version>1.3.2</version>
+<version>1.3.3</version>
 <objective>Capture the enemy team's wools.</objective>
 <gamemode>CTW</gamemode>
 <time overtime="1m" max-overtime="15m">45m</time>
