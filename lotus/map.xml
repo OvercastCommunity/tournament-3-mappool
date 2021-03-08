@@ -1,7 +1,7 @@
 <map proto="1.4.0">
 <time overtime="1m" max-overtime="15m">45m</time>
 <name>Lotus</name>
-<version>1.2.3</version>
+<version>1.2.4</version>
 <objective>Capture the enemy's two wools!</objective>
 <authors>
     <author uuid="f1352a57-4fe3-4f0c-b867-56b771fc1a0f"/> <!-- teagod -->
@@ -109,7 +109,7 @@
     </union>
     <union id="wool-mons">
         <cuboid min="38,18,-232" max="39,19,-231"/>
-        <cuboid min="35,18,-232" max="34,19,-2"/>
+        <cuboid min="35,18,-232" max="34,19,-231"/>
         <cuboid min="35,18,-103" max="34,19,-104"/>
         <cuboid min="38,18,-103" max="39,19,-104"/>
     </union>
